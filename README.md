@@ -3,8 +3,7 @@
 Este proyecto corresponde al segundo desafío del **Módulo 2** del bootcamp de **Desarrollo Front-End**. El objetivo fundamental de este ejercicio práctico fue dominar el uso de **CSS Grid Layout** para la estructura principal del sitio, complementándolo con **Flexbox** para la distribución de componentes internos menores.
 
 ## 🔗 Revisalo aquí
-
-
+https://ciga25.github.io/m2d2_grid/
 
 ## 🎯 Objetivos del Desafío
 * **Maquetación con CSS Grid:** Implementar un sistema de rejilla bidimensional configurando áreas explícitas (`grid-template-areas`), columnas y filas adaptables.
